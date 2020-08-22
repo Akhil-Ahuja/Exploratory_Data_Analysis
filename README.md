@@ -1,2 +1,6 @@
 # Exploratory_Data_Analysis
-Please open the assignment folder
+
+### This repo is for coursera cuourse **Exploratory Data Analysis**
+
+
+### Please open the assignment folder
