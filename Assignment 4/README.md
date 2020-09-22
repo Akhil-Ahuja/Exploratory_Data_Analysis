@@ -3,7 +3,7 @@
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot!1.PNG) 
+![plot of chunk unnamed-chunk-2](Plot_1.PNG) 
 ### Plot 1
 
 
