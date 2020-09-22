@@ -3,24 +3,24 @@
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot!1.png) 
+![plot of chunk unnamed-chunk-2](Plot!1.PNG) 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot_2.png) 
+![plot of chunk unnamed-chunk-2](Plot_2.PNG) 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot_3.png) 
+![plot of chunk unnamed-chunk-2](Plot_3.PNG) 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot_4.png) 
+![plot of chunk unnamed-chunk-2](Plot_4.PNG) 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot_5.png) 
+![plot of chunk unnamed-chunk-2](Plot_5.PNG) 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](Plot_6.png) 
+![plot of chunk unnamed-chunk-2](Plot_6.PNG) 
